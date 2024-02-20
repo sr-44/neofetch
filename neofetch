@@ -1935,6 +1935,7 @@ get_wm() {
                                -e wayhouse \
                                -e westeros \
                                -e westford \
+                               -e Hyprland \
                                -e weston)
         fi
 
